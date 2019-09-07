@@ -1,0 +1,672 @@
+Uri: http://goshala.com/
+File Name: d:\code\web\goshala.com\index.htm
+Content Type: text/html
+
+Uri: http://goshala.com/?format=feed&type=rss
+File Name: d:\code\web\goshala.com\index.rss
+Content Type: application/rss+xml
+
+Uri: http://goshala.com/?format=feed&type=atom
+File Name: d:\code\web\goshala.com\index.atom
+Content Type: application/atom+xml
+
+Uri: http://goshala.com/templates/cloudbase3/favicon.ico
+File Name: d:\code\web\goshala.com\templates\cloudbase3\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/0f0e6903a2fd5b23e781f4adfa51a43f_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\0f0e6903a2fd5b23e781f4adfa51a43f_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/features.html
+File Name: d:\code\web\goshala.com\features.html
+Content Type: text/html
+
+Uri: http://goshala.com/cow-seva-in-sastra.html
+File Name: d:\code\web\goshala.com\cow-seva-in-sastra.html
+Content Type: text/html
+
+Uri: http://goshala.com/contact-us.html
+File Name: d:\code\web\goshala.com\contact-us.html
+Content Type: text/html
+
+Uri: http://goshala.com/cow-sevak.html
+File Name: d:\code\web\goshala.com\cow-sevak.html
+Content Type: text/html
+
+Uri: http://goshala.com/donation.html
+File Name: d:\code\web\goshala.com\donation.html
+Content Type: text/html
+
+Uri: http://goshala.com/2-uncategorised/9-recentvideogoshala.html
+File Name: d:\code\web\goshala.com\2-uncategorised\9-recentvideogoshala.html
+Content Type: text/html
+
+Uri: http://goshala.com/2-uncategorised/34-new-donated-tree-by-anirudh-vyas-prabhu-3.html
+File Name: d:\code\web\goshala.com\2-uncategorised\34-new-donated-tree-by-anirudh-vyas-prabhu-3.html
+Content Type: text/html
+
+Uri: http://goshala.com/2-uncategorised/21-donation-amount.html
+File Name: d:\code\web\goshala.com\2-uncategorised\21-donation-amount.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/logo.jpg
+File Name: d:\code\web\goshala.com\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/cloudbase/sp-mandala.png
+File Name: d:\code\web\goshala.com\images\cloudbase\sp-mandala.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/arrows/cis_button_left35.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\arrows\cis_button_left35.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/arrows/cis_button_right35.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\arrows\cis_button_right35.png
+Content Type: image/png
+
+Uri: http://goshala.com/images/Features_Images/1.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\1.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/2.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\2.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/3.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\3.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/4.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\4.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/5.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\5.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/6.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\6.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Features_Images/herbal-dhoop-stick.jpg
+File Name: d:\code\web\goshala.com\images\Features_Images\herbal-dhoop-stick.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/gomatabliss.png
+File Name: d:\code\web\goshala.com\images\gomatabliss.png
+Content Type: image/png
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/47ce56379edf8801568dc933c2eb0685_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\47ce56379edf8801568dc933c2eb0685_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/components/com_k2/images/loaders/generic.gif
+File Name: d:\code\web\goshala.com\components\com_k2\images\loaders\generic.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_k2/images/ratingstars.gif
+File Name: d:\code\web\goshala.com\components\com_k2\images\ratingstars.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_k2/images/videobg.gif
+File Name: d:\code\web\goshala.com\components\com_k2\images\videobg.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_k2/images/loaders/search.gif
+File Name: d:\code\web\goshala.com\components\com_k2\images\loaders\search.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_k2/images/loaders/calendar.gif
+File Name: d:\code\web\goshala.com\components\com_k2\images\loaders\calendar.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/mediabox_ck/assets/images/loading.gif
+File Name: d:\code\web\goshala.com\plugins\system\mediabox_ck\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/mediabox_ck/assets/images/icon_zoom.png
+File Name: d:\code\web\goshala.com\plugins\system\mediabox_ck\assets\images\icon_zoom.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/img/broken-image.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\img\broken-image.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/img/broken-media.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\img\broken-media.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/img/broken-page.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\img\broken-page.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/img/zoom-img.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\img\zoom-img.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/img/zoom-link.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\img\zoom-link.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/loader.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\loader.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-tl.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-tl.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-tr.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-tr.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-bl.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-bl.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-br.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-br.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/close.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\close.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/prev.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\prev.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/next.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\next.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-tl.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-tl.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-tr.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-tr.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-bl.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-bl.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-br.png
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-br.png
+Content Type: image/png
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-tl.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-tl.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-tr.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-tr.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-bl.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-bl.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/tip-br.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\tip-br.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-tl.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-tl.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-tr.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-tr.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-bl.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-bl.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/plugins/system/jcemediabox/themes/standard/img/corner-br.gif
+File Name: d:\code\web\goshala.com\plugins\system\jcemediabox\themes\standard\img\corner-br.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/templates/cloudbase3/images/menu/tree-main.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\menu\tree-main.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/menu/tree-node.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\menu\tree-node.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/menu/tree-node-last.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\menu\tree-node-last.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/menu/tree-node-first.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\menu\tree-node-first.png
+Content Type: image/png
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/IcoMoon.eot
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\IcoMoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/IcoMoon.svg
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\IcoMoon.svg
+Content Type: image/svg+xml
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/IcoMoon.woff
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\IcoMoon.woff
+Content Type: application/font-woff
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/IcoMoon.ttf
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\IcoMoon.ttf
+Content Type: application/font-sfnt
+
+Uri: http://goshala.com/templates/cloudbase3/images/logo/light/powered.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\logo\light\powered.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/logo/dark/powered.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\logo\dark\powered.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/scrolltotop-arrow.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\scrolltotop-arrow.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/concrete.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\concrete.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/default.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\default.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/feathers.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\feathers.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/flowers.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\flowers.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/food.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\food.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/geometry.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\geometry.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/grid.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\grid.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/mossaiq.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\mossaiq.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/paper.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\paper.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/square.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\square.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/noise.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\noise.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/patterns/footer.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\patterns\footer.png
+Content Type: image/png
+
+Uri: http://goshala.com/templates/cloudbase3/images/logo/light/logo.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\logo\light\logo.png
+Content Type: image/png
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/fontawesome-webfont.eot?v=3.2.1
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/fontawesome-webfont.eot
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/fontawesome-webfont.woff?v=3.2.1
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/fontawesome-webfont.ttf?v=3.2.1
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/fontawesome-webfont.svg
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/font-awesome4/fontawesome-webfont.eot?v=4.2.0
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\font-awesome4\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/font-awesome4/fontawesome-webfont.eot
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\font-awesome4\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/font-awesome4/fontawesome-webfont.woff?v=4.2.0
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\font-awesome4\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/font-awesome4/fontawesome-webfont.ttf?v=4.2.0
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\font-awesome4\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://goshala.com/libraries/gantry/assets/jui/fonts/font-awesome4/fontawesome-webfont.svg?v=4.2.0
+File Name: d:\code\web\goshala.com\libraries\gantry\assets\jui\fonts\font-awesome4\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://goshala.com/templates/cloudbase3/images/upgrade.png
+File Name: d:\code\web\goshala.com\templates\cloudbase3\images\upgrade.png
+Content Type: image/png
+
+Uri: http://goshala.com/media/com_jdonation/assets/css/fonts/fontawesome-webfont.eot?v=3.2.1
+File Name: d:\code\web\goshala.com\media\com_jdonation\assets\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/media/com_jdonation/assets/css/fonts/fontawesome-webfont.eot
+File Name: d:\code\web\goshala.com\media\com_jdonation\assets\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://goshala.com/media/com_jdonation/assets/css/fonts/fontawesome-webfont.woff?v=3.2.1
+File Name: d:\code\web\goshala.com\media\com_jdonation\assets\css\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://goshala.com/media/com_jdonation/assets/css/fonts/fontawesome-webfont.ttf?v=3.2.1
+File Name: d:\code\web\goshala.com\media\com_jdonation\assets\css\fonts\fontawesome-webfont.ttf
+Content Type: application/font-sfnt
+
+Uri: http://goshala.com/media/com_jdonation/assets/css/fonts/fontawesome-webfont.svg
+File Name: d:\code\web\goshala.com\media\com_jdonation\assets\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/loading1.gif
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\loading1.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/loading.gif
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\loading.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/bg_overlay.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\bg_overlay.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/zoom_black.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\zoom_black.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/zoom_white.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\zoom_white.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/link_black.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\link_black.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/link_white.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\link_white.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/glyphicons-halflings-white.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\glyphicons-halflings-white.png
+Content Type: image/png
+
+Uri: http://goshala.com/components/com_creativeimageslider/assets/images/glyphicons-halflings.png
+File Name: d:\code\web\goshala.com\components\com_creativeimageslider\assets\images\glyphicons-halflings.png
+Content Type: image/png
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/bbd4560f4c368df4e9e44487d6f297d0_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\bbd4560f4c368df4e9e44487d6f297d0_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=3
+File Name: d:\code\web\goshala.com\component\jdonation\index.htm
+Content Type: text/html
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=4
+File Name: d:\code\web\goshala.com\component\jdonation\index-1.htm
+Content Type: text/html
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=5
+File Name: d:\code\web\goshala.com\component\jdonation\index-2.htm
+Content Type: text/html
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=6
+File Name: d:\code\web\goshala.com\component\jdonation\index-3.htm
+Content Type: text/html
+
+Uri: http://goshala.com/features/21-cows/30-yamuna.html
+File Name: d:\code\web\goshala.com\features\21-cows\30-yamuna.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Anjali_A5DF_251.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Anjali_A5DF_251.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=7
+File Name: d:\code\web\goshala.com\component\jdonation\index-4.htm
+Content Type: text/html
+
+Uri: http://goshala.com/features/21-cows/29-gangga.html
+File Name: d:\code\web\goshala.com\features\21-cows\29-gangga.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Anuttama_856.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Anuttama_856.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/component/jdonation/?campaign_id=8
+File Name: d:\code\web\goshala.com\component\jdonation\index-5.htm
+Content Type: text/html
+
+Uri: http://goshala.com/features/21-cows/28-krishna-jivani.html
+File Name: d:\code\web\goshala.com\features\21-cows\28-krishna-jivani.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Ashoka.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Ashoka.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/donation/charan.html
+File Name: d:\code\web\goshala.com\donation\charan.html
+Content Type: text/html
+
+Uri: http://goshala.com/features/21-cows/26-tulasi.html
+File Name: d:\code\web\goshala.com\features\21-cows\26-tulasi.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Bharati_8D88.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Bharati_8D88.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/features/21-cows/27-surabhi.html
+File Name: d:\code\web\goshala.com\features\21-cows\27-surabhi.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Chandi_950.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Chandi_950.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/features/21-cows/25-nandini.html
+File Name: d:\code\web\goshala.com\features\21-cows\25-nandini.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Devamata_S252.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Devamata_S252.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/features/21-cows/24-gayatri.html
+File Name: d:\code\web\goshala.com\features\21-cows\24-gayatri.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Girija.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Girija.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/features/21-cows/23-ekadasi-cow.html
+File Name: d:\code\web\goshala.com\features\21-cows\23-ekadasi-cow.html
+Content Type: text/html
+
+Uri: http://goshala.com/images/Cow/Govindapriya_857.jpg
+File Name: d:\code\web\goshala.com\images\Cow\Govindapriya_857.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Feed_the_Full_Herd_for_1_month_star.jpg
+File Name: d:\code\web\goshala.com\images\Feed_the_Full_Herd_for_1_month_star.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Cow_Medical_One_Month.jpg
+File Name: d:\code\web\goshala.com\images\Cow_Medical_One_Month.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Developing_Land.jpg
+File Name: d:\code\web\goshala.com\images\Developing_Land.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/images/Mantain_Goshala_one_day.jpg
+File Name: d:\code\web\goshala.com\images\Mantain_Goshala_one_day.jpg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/6bc0df2e8662043c7011c5a4d9b9250e_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\6bc0df2e8662043c7011c5a4d9b9250e_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/cow-seva-in-sastra.feed?type=rss
+File Name: d:\code\web\goshala.com\cow-seva-in-sastra-1.html
+Content Type: text/html
+
+Uri: http://goshala.com/cow-seva-in-sastra.feed?type=atom
+File Name: d:\code\web\goshala.com\cow-seva-in-sastra-2.html
+Content Type: text/html
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/c45cfa26d82048d13309653d8b2b6181_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\c45cfa26d82048d13309653d8b2b6181_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/cow-seva-in-sastra.feed
+File Name: d:\code\web\goshala.com\cow-seva-in-sastra-3.html
+Content Type: text/html
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/95accb531c5bc654a20105cfc2b2f596_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\95accb531c5bc654a20105cfc2b2f596_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/00533e70d6a0deeeee911514afa80f3d_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\00533e70d6a0deeeee911514afa80f3d_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/modules/mod_s5_quick_contact/captcha/CaptchaSecurityImages.php?width=90&height=30&characters=5
+File Name: d:\code\web\goshala.com\modules\mod_s5_quick_contact\captcha\CaptchaSecurityImages.jpeg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/34b1209ebde250f2db18f685e0158bb0_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\34b1209ebde250f2db18f685e0158bb0_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/34b1209ebde250f2db18f685e0158bb0_1.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\34b1209ebde250f2db18f685e0158bb0_1.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/51961f6f270e0fbf7cebac46207e038b_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\51961f6f270e0fbf7cebac46207e038b_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/cow-sevak/2-uncategorised/34-new-donated-tree-by-anirudh-vyas-prabhu-3.html
+File Name: d:\code\web\goshala.com\cow-sevak\2-uncategorised\34-new-donated-tree-by-anirudh-vyas-prabhu-3.html
+Content Type: text/html
+
+Uri: http://goshala.com/cow-sevak/2-uncategorised/21-donation-amount.html
+File Name: d:\code\web\goshala.com\cow-sevak\2-uncategorised\21-donation-amount.html
+Content Type: text/html
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/9cf2685c263f34ddd720b99436666838_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\9cf2685c263f34ddd720b99436666838_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/8e082d330ab9b844ee73a20077aa586c_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\8e082d330ab9b844ee73a20077aa586c_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/images/Screenshot_2018-11-03_08.47.09.png
+File Name: d:\code\web\goshala.com\images\Screenshot_2018-11-03_08.47.09.png
+Content Type: image/png
+
+Uri: http://goshala.com/images/Screenshot_2018-11-03_08.47.19.png
+File Name: d:\code\web\goshala.com\images\Screenshot_2018-11-03_08.47.19.png
+Content Type: image/png
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/d5a933a6d7e00771d603ed49f05be524_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\d5a933a6d7e00771d603ed49f05be524_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/images/Tree_donation.jpeg
+File Name: d:\code\web\goshala.com\images\Tree_donation.jpeg
+Content Type: image/jpeg
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/4d2fdefddd4ba728ec239c56959242cc_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\4d2fdefddd4ba728ec239c56959242cc_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/db962b29baf9a7dabfd2a7347eb13c92_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\db962b29baf9a7dabfd2a7347eb13c92_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/7f4f1158f86573cbd6e07596a016aa68_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\7f4f1158f86573cbd6e07596a016aa68_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/fancybox_sprite.png
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/fancybox_loading.gif
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/blank.gif
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\blank.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/fancybox_overlay.png
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\fancybox_overlay.png
+Content Type: image/png
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/fancybox_sprite@2x.png
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://goshala.com/modules/mod_responsive_grid_for_articles/assets/fancybox/fancybox_loading@2x.gif
+File Name: d:\code\web\goshala.com\modules\mod_responsive_grid_for_articles\assets\fancybox\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/a260f22c7b7317816b550db47010ae46_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\a260f22c7b7317816b550db47010ae46_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/d0642e8f3ef076b6497c07c16199b523_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\d0642e8f3ef076b6497c07c16199b523_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/c4ddb29197ed9cf09e156f19fc2cf1b5_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\c4ddb29197ed9cf09e156f19fc2cf1b5_0.js
+Content Type: text/javascript
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/css/00eacaad8b0fce876549050b1d667280_0.css
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\css\00eacaad8b0fce876549050b1d667280_0.css
+Content Type: text/css
+
+Uri: http://goshala.com/media/plg_jchoptimize/cache/js/7013d7ea45fa63dc8dbc266cfe6feacc_0.js
+File Name: d:\code\web\goshala.com\media\plg_jchoptimize\cache\js\7013d7ea45fa63dc8dbc266cfe6feacc_0.js
+Content Type: text/javascript
+
